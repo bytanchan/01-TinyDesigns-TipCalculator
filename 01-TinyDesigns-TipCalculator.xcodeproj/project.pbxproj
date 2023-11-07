@@ -48,6 +48,7 @@
 		15305A1D2AF9EFE1005A5BA6 /* 01-TinyDesigns-TipCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "01-TinyDesigns-TipCalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		15305A212AF9EFE1005A5BA6 /* _1_TinyDesigns_TipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _1_TinyDesigns_TipCalculatorUITests.swift; sourceTree = "<group>"; };
 		15305A232AF9EFE1005A5BA6 /* _1_TinyDesigns_TipCalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _1_TinyDesigns_TipCalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		15305A302AF9F0E4005A5BA6 /* -1-TinyDesigns-TipCalculator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "-1-TinyDesigns-TipCalculator-Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +99,7 @@
 		15305A002AF9EFE0005A5BA6 /* 01-TinyDesigns-TipCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				15305A302AF9F0E4005A5BA6 /* -1-TinyDesigns-TipCalculator-Info.plist */,
 				15305A012AF9EFE0005A5BA6 /* _1_TinyDesigns_TipCalculatorApp.swift */,
 				15305A032AF9EFE0005A5BA6 /* ContentView.swift */,
 				15305A052AF9EFE1005A5BA6 /* Assets.xcassets */,
@@ -428,6 +430,7 @@
 				DEVELOPMENT_TEAM = 4K8WSV324H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "-1-TinyDesigns-TipCalculator-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -457,6 +460,7 @@
 				DEVELOPMENT_TEAM = 4K8WSV324H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "-1-TinyDesigns-TipCalculator-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

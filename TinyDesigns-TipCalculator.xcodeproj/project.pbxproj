@@ -214,7 +214,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 153059F92AF9EFE0005A5BA6 /* Build configuration list for PBXProject "01-TinyDesigns-TipCalculator" */;
+			buildConfigurationList = 153059F92AF9EFE0005A5BA6 /* Build configuration list for PBXProject "TinyDesigns-TipCalculator" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -558,7 +558,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		153059F92AF9EFE0005A5BA6 /* Build configuration list for PBXProject "01-TinyDesigns-TipCalculator" */ = {
+		153059F92AF9EFE0005A5BA6 /* Build configuration list for PBXProject "TinyDesigns-TipCalculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				15305A252AF9EFE1005A5BA6 /* Debug */,
